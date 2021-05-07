@@ -1,6 +1,6 @@
-## Escola Técnica - Projeto Integrador II - Java SE
+## Escola TÃ©cnica - Projeto Integrador II - Java SE
 
-###  :computer: Tela
+###  :desktop_computer: Tela
 
 <div align="center">
   <img alt="Tela" title="#Tela" width="100%" height="auto" src="./README/tela.png" />
@@ -9,7 +9,7 @@
 ----------
 
 ### :hammer_and_wrench: Ferramentas
-As seguintes tecnologias foram utilizadas na construção do projeto:
+As seguintes tecnologias foram utilizadas na construÃ§Ã£o do projeto:
 - NetBeans;
 - iReport;
 - Java Swing;
@@ -18,17 +18,17 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 ----------
 
-###  :gear: Funções
+###  :gear: FunÃ§Ãµes
 - [x] PDV (Ponto de Venda);
 - [x] CRUD de Clientes;
 - [x] CRUD de Fornecedores;
 - [x] CRUD de Produtos;
-- [x] Geração de Relatórios.
+- [x] GeraÃ§Ã£o de RelatÃ³rios.
 
 ----------
 
 ###  :eyeglasses: Autor
-José Gustavo da Silva.
+JosÃ© Gustavo da Silva.
 [
 **Linkedin**
 ](https://www.linkedin.com/in/jose-gustavo312/)
